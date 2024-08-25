@@ -1,0 +1,1 @@
+echo "Thanks for submitting the information"
